@@ -1,0 +1,7 @@
+[
+    {"name":"DEMO", "path":"demo"},
+    {"name":"DEMO Series", "path":"demo_series"},
+    {"name":"USB Descriptor", "path":"usbdesc"},
+    {"name":"USB描述符中文版", "path":"usbdesc_cn"},
+    {"name":"Network ICMPv6", "path":"icmpv6"}
+]
