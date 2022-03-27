@@ -83,7 +83,7 @@ struct def_struct
 // @alias[base_type]
 // 类型5
 typedef struct base_5_type{
-    uint8_t type; // 类型5, 包含子结体体
+    uint8_t type; // 类型5, 包含子结构体
     uint8_t len;
     struct def_struct data;
 }base_5_type;
@@ -93,7 +93,7 @@ typedef struct base_5_type{
 // @alias[base_type]
 // 类型6
 typedef struct base_6_type{
-    uint8_t type; // 类型6, 包含子结体体
+    uint8_t type; // 类型6, 子结构体包含子结构体
     uint8_t len;
     struct out_type data; 
 }base_6_type;
